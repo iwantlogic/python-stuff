@@ -1,0 +1,7 @@
+push Hello 1
+push World 1
+push test 10
+revstack
+pprintn 5
+pprintn 5
+pprintn 40
